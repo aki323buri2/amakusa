@@ -1,0 +1,12 @@
+pandas<2
+numpy 
+python-dateutil
+openpyxl
+fastapi
+uvicorn[standard]
+SQLAlchemy<1.4
+pyodbc
+jupyterlab
+
+pyautogui
+opencv-python
